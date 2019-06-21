@@ -1,3 +1,11 @@
 Ersi Nurcellari
 This is my submition for quize 1 co-op
 Thank You
+
+My favorite editor to use is Visual Studio Code(VS Code).﻿﻿ There are several reasons why I prefer VS Code, but I will list the main three. Reason one is that VS Code supports multiple languages, reason two is that VS Code has its own terminal window built in, reason three is that there is a huge library of 3rd party extensions/plugins available. I will contrast VS Code to tools we have used in school before namely InteliJ and PyCharm.
+
+The main reason I enjoy VS Code is because it supports multiple languages. This allows me to use one editor for all of my work. The most common languages I use VS Code for are HTML/CSS/JS , Python, postgreSQL. I think this a good feature because it allows me to focus on work and not on what editor is used for what language. This is in contrast to both InteliJ and PyCharm which only allow you to code in their own respective language.
+
+The second reason I enjoy VS Code is because it has a built in terminal window. This is extremely important because I don't need to leave the editor window to then open and instance of terminal and write my work. I can simply run my project from within VS Code using the terminal. I can also use any CLI from within VS Code which is extremely powerful. This saves you time, energy, and keeps you focused on your work because you don't need to leave the editor to run commands or run the program itself. InteliJ and PyCharm both have this feature but their are text editors that do not just as Sublime Text.
+
+The third but not least I enjoy VS Code is because of the enormous 3rd party plug in library that exists. There are thousands of free plugins available for you to use. These plugins can offer great functionality. Plugins can do things such as Highlight language specific syntax, offer debugging tools, offer language specific intellisense. These features allow your code to be more readable to both you and colleagues. These are the 3 main reason I enjoy using VS Code. InteliJ and PyCharm are both developed by the same company and are close source they do not allow 3rd party devs to make plugins or extensions for their software. 
